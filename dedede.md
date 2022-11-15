@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - blog.usling.edu 
 - admin.usling.edu
 - Student Portal page
+- Student Portal button on main menu.
  
 ## [1.0.1] - November, 10 - 2022
  
