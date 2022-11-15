@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - admin.usling.edu
 - Student Portal page
 - Student Portal button on main menu.
+
+### Fixed
+- Homepage margins
  
 ## [1.0.1] - November, 10 - 2022
  
