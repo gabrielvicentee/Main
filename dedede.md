@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - blog.usling.edu 
 - admin.usling.edu
+- Student Portal page
  
 ## [1.0.1] - November, 10 - 2022
  
