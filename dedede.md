@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - I-20 Reissuance Fee
 
+### Fixed
+- [Tablet] Footer logo size.
+- [Mobile] Programs page description banner.
+
 ## [1.1.0] - November, 14 - 2022 
 
 ### Added
