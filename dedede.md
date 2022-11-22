@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Direct "Chat with us" on form pages.
 - Re-captcha (Google anti-spam) added on forms.
 
+### Changed
+- Form page design.
+- Form design.
+
 
 ## [1.1.1] - November, 17 - 2022 
 
