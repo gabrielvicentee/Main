@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Spring 2023 - VISA Status form.
 - Direct "Chat with us" on form pages.
+- Re-captcha (Google anti-spam) added on forms.
 
 
 ## [1.1.1] - November, 17 - 2022 
