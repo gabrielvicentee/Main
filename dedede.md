@@ -14,7 +14,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - Calendar page (+ tabs).
-- 
+
+### Fixed
+- 📱 Student Portal button :hover.
+
 
 ## [1.1.2] - November, 21 - 2022 
 
