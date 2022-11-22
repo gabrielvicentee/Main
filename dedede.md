@@ -6,7 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
  
- 
+## [1.1.2] - November, 21 - 2022 
+
+### Added
+- Spring 2023 - VISA Status form.
+- Direct "Chat with us" on form pages.
+
 
 ## [1.1.1] - November, 17 - 2022 
 
