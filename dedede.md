@@ -5,7 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
- 
+## [1.1.3] - November, 22 - 2022 
+
+### Added
+- Calendar 2023.
+
+### Changed
+- Calendar page (+ tabs).
+- 
+
 ## [1.1.2] - November, 21 - 2022 
 
 ### Added
@@ -27,6 +35,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - [Tablet] Footer logo size.
 - [Mobile] Programs page description banner.
 
+
 ## [1.1.0] - November, 14 - 2022 
 
 ### Added
@@ -37,6 +46,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 - Homepage margins
+ 
  
 ## [1.0.1] - November, 10 - 2022
  
@@ -53,6 +63,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 - [Desktop] Social media links.
 - [Mobile] Menu footer size.
+
 
 ## [1.0.0] - November, 09 - 2022
  
