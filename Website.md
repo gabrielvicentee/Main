@@ -9,33 +9,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Calendar 2023.
 - NWBOC (Woman Owned Business) logo on `homepage`.
-- Accet logo on homepage.
+- Accet logo on `homepage`.
 
 ### Changed
-- Calendar page (+ tabs).
+- `Calendar page` (+ tabs).
 
 ### Fixed
 - 📱 Student Portal button :hover. 
- 
-## [1.1.3] - November, 22 - 2022 
-
-### Added
-- Calendar 2023.
-- NWBOC (Woman Owned Business) logo on homepage.
-- Accet logo on homepage.
-
-### Changed
-- Calendar page (+ tabs).
-
-### Fixed
-- 📱 Student Portal button :hover.
 
 
 ## [1.1.2] - November, 21 - 2022 
 
 ### Added
 - Spring 2023 - VISA Status form.
-- Direct "Chat with us" on form pages.
+- Direct "Chat with us" on `form pages`.
 - Re-captcha (Google anti-spam) added on forms.
 
 ### Changed
