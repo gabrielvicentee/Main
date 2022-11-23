@@ -15,6 +15,19 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Calendar page (+ tabs).
 
 ### Fixed
+- 📱 Student Portal button :hover. 
+ 
+## [1.1.3] - November, 22 - 2022 
+
+### Added
+- Calendar 2023.
+- NWBOC (Woman Owned Business) logo on homepage.
+- Accet logo on homepage.
+
+### Changed
+- Calendar page (+ tabs).
+
+### Fixed
 - 📱 Student Portal button :hover.
 
 
