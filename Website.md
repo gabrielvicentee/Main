@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Calendar 2023.
-- NWBOC (Woman Owned Business) logo on homepage.
+- NWBOC (Woman Owned Business) logo on 'homepage'.
 - Accet logo on homepage.
 
 ### Changed
