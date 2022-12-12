@@ -3,7 +3,8 @@
 ## [1.1.3] - Dec, 12 - 2022 
 
 ### Added
-- 
+- Chat with us Whatsapp (General Inquiries) button.
+-  
  
 ## [1.1.3] - November, 22 - 2022 
 
