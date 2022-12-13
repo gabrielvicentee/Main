@@ -4,7 +4,7 @@
 
 ### Added
 - Chat with us Whatsapp (General Inquiries) button.
--  
+- Spring 2023 page.
  
 ## [1.1.3] - November, 22 - 2022 
 
