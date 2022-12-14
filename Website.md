@@ -1,6 +1,11 @@
 # Change Log
 
-## [1.1.3] - Dec, 12 - 2022 
+## [1.1.5] - Dec, 13 - 2022 
+
+### Added
+- Job Application Form.
+
+## [1.1.4] - Dec, 12 - 2022 
 
 ### Added
 - Chat with us Whatsapp (General Inquiries) button.
