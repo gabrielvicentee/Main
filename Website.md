@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.1.6] - Jan, 19 - 2023 
+
+### Changed
+- 'Home Page' new countdown to Summer Semester.
+
+### Deleted
+- 2022 Calendar.
+
+
 ## [1.1.5] - Dec, 13 - 2022 
 
 ### Added
