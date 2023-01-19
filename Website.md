@@ -2,6 +2,9 @@
 
 ## [1.1.6] - Jan, 19 - 2023 
 
+### Added
+- Initial application button homepage.
+
 ### Changed
 - 'Home Page' new countdown to Summer Semester.
 
