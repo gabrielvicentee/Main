@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.2.0] - May, 11 - 2023 
+
+### Added
+- 💻 Tutorial: Payment agreement (page).
+
+### Changed
+- 'Home Page' new countdown to Fall Semester.
+
 ## [1.1.6] - Jan, 19 - 2023 
 
 ### Added
